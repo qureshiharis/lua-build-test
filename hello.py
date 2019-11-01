@@ -1,1 +1,3 @@
-print("hello world! hello again") # Added a comment
+print("hello world! hello again hello hello hello") # Added a comment, modified
+
+variable = 3 
